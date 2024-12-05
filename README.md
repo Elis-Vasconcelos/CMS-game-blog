@@ -49,7 +49,6 @@ O **Blog Editável** é uma aplicação desenvolvida com o objetivo de criar e g
 O design da aplicação foi especificado no **Figma** e pode ser acessado através dos seguintes links:
 
 - [Design 1 - Ruan Correia Brasil](https://www.figma.com/design/HHnCMPtiamwzbKj1BFdsOL/Untitled?node-id=0-1&t=yD7R9ek9Z1DaF9Ba-1)
-- [Design 2 - Márcio Vilas Boas Cerqueira](https://www.figma.com/design/KxMWxqTJ2CoaMNLfbx1gPk/Portifólio-(Márcio)?node-id=4079-6&t=iqvZ1rDbDmluuBQr-1)
 
 ## Estrutura do Projeto
 
